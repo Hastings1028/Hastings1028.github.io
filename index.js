@@ -12,3 +12,7 @@ function obj(){
 {location.replace("Objectives.html")}
 
 }
+
+function indx(){
+    location.replace("index.html")
+}
